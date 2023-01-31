@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="7390" started-at="2023-01-31T12:25:08 IST" finished-at="2023-01-31T12:25:16 IST">
+  <suite name="Suite" duration-ms="9524" started-at="2023-01-31T14:34:10 IST" finished-at="2023-01-31T14:34:20 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="7390" started-at="2023-01-31T12:25:08 IST" finished-at="2023-01-31T12:25:16 IST">
+    <test name="Test" duration-ms="9524" started-at="2023-01-31T14:34:10 IST" finished-at="2023-01-31T14:34:20 IST">
       <class name="webpages.loginTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:webpages.loginTest@1442d7b5]" name="setUp" is-config="true" duration-ms="7037" started-at="2023-01-31T12:25:08 IST" finished-at="2023-01-31T12:25:15 IST">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:webpages.loginTest@1442d7b5]" name="setUp" is-config="true" duration-ms="9219" started-at="2023-01-31T14:34:10 IST" finished-at="2023-01-31T14:34:20 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testlogin()[pri:0, instance:webpages.loginTest@1442d7b5]" name="testlogin" duration-ms="278" started-at="2023-01-31T12:25:15 IST" finished-at="2023-01-31T12:25:16 IST">
+        <test-method status="PASS" signature="testlogin()[pri:0, instance:webpages.loginTest@1442d7b5]" name="testlogin" duration-ms="227" started-at="2023-01-31T14:34:20 IST" finished-at="2023-01-31T14:34:20 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testlogin -->
-        <test-method status="PASS" signature="close()[pri:0, instance:webpages.loginTest@1442d7b5]" name="close" is-config="true" duration-ms="1" started-at="2023-01-31T12:25:16 IST" finished-at="2023-01-31T12:25:16 IST">
+        <test-method status="PASS" signature="close()[pri:0, instance:webpages.loginTest@1442d7b5]" name="close" is-config="true" duration-ms="1" started-at="2023-01-31T14:34:20 IST" finished-at="2023-01-31T14:34:20 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
       </class> <!-- webpages.loginTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
